@@ -1,4 +1,4 @@
-# Ilyasviel
+# Illyasviel
 This is my open source discord bot written in rust (https://github.com/DownLyfter/Ilyasviel)
 ## Project Goals
 - [ ] Global levels
